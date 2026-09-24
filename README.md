@@ -2,6 +2,10 @@
 
 A two-player implementation of Pong developed from scratch in MATLAB.
 
+## Demo
+
+![MATLAB Pong gameplay](Pong-demo.png)
+
 ## Features
 
 - Two-player keyboard controls
